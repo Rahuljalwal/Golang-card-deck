@@ -71,3 +71,5 @@ func (d deck) shuffle() {
 		d[i], d[newPosition] = d[newPosition], d[i]
 	}
 }
+
+func (d deck) getsui
